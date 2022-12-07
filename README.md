@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Bienvenue sur ma page profil de github.
+En cours de chargement ...
 
 <!--
 **Joscop24/Joscop24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
